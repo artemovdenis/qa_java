@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1692cf9b-74c2-4bdb-94d1-63c22046f799" name="Default Changelist" comment="реведр" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BoUQ28H0xMa4Y9dpQ6c1bPrR9b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1692cf9b-74c2-4bdb-94d1-63c22046f799" name="Default Changelist" comment="" />
+      <created>1657571921625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657571921625</updated>
+    </task>
+    <task id="LOCAL-00001" summary="реведр">
+      <created>1657573206784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657573206784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert">
+      <created>1657574243358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657574243358</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавил" />
+    <MESSAGE value="реведр" />
+    <MESSAGE value="Revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="23" key="CommitChangelistDialog2" timestamp="1657574242923">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="252" y="23" key="CommitChangelistDialog2/0.23.1280.724@0.23.1280.724" timestamp="1657574242923" />
+    <state x="137" y="84" key="MergeDialog" timestamp="1657573244734">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="137" y="84" key="MergeDialog/0.23.1280.724@0.23.1280.724" timestamp="1657573244734" />
+    <state x="287" y="153" key="MultipleFileMergeDialog" timestamp="1657573244823">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="287" y="153" key="MultipleFileMergeDialog/0.23.1280.724@0.23.1280.724" timestamp="1657573244823" />
+    <state x="491" y="305" key="VCS.ChangelistChooser" timestamp="1657574009761">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="491" y="305" key="VCS.ChangelistChooser/0.23.1280.724@0.23.1280.724" timestamp="1657574009761" />
+    <state x="240" y="125" key="Vcs.Push.Dialog.v2" timestamp="1657573813770">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="240" y="125" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1657573210720" />
+    <state x="240" y="125" key="Vcs.Push.Dialog.v2/0.23.1280.726@0.23.1280.726" timestamp="1657573813770" />
+    <state x="383" y="105" key="git4idea.branch.GitSmartOperationDialog" timestamp="1657572669098">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="383" y="105" key="git4idea.branch.GitSmartOperationDialog/0.23.1280.724@0.23.1280.724" timestamp="1657572669098" />
+  </component>
+</project>
