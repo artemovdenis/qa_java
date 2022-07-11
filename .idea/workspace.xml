@@ -43,7 +43,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657574243358</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="реведр">
+      <created>1657574772085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657574772085</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,9 +119,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавил" />
-    <MESSAGE value="реведр" />
     <MESSAGE value="Revert" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert" />
+    <MESSAGE value="реведр" />
+    <option name="LAST_COMMIT_MESSAGE" value="реведр" />
   </component>
   <component name="WindowStateProjectService">
     <state x="252" y="23" key="CommitChangelistDialog2" timestamp="1657574242923">
